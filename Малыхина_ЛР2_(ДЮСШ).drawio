@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram name="Страница-1" id="kwxx31xEjDpH-CAGusDs">
+    <mxGraphModel dx="3570" dy="1600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-20" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Каталог секций&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Добавить секцию ()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Удалить секцию ()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Изменить секцию ()&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="190" x="60" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-22" edge="1" parent="1" source="zY93dvU-7LZMTb6wIJdU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="zY93dvU-7LZMTb6wIJdU-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-35" edge="1" parent="1" source="zY93dvU-7LZMTb6wIJdU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zY93dvU-7LZMTb6wIJdU-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-21" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Секции&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Код секции&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Название&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Вид спорта&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Тренер&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="190" x="60" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-24" edge="1" parent="1" source="zY93dvU-7LZMTb6wIJdU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zY93dvU-7LZMTb6wIJdU-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-23" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Описание секции&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Код секции&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Описание&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Удалить описание ()&lt;br&gt;Добавить описание ()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Изменить описание ()&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="190" x="-200" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-29" edge="1" parent="1" source="zY93dvU-7LZMTb6wIJdU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="zY93dvU-7LZMTb6wIJdU-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-25" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Тренеры&lt;/i&gt;&lt;/p&gt;Код тренера&lt;div&gt;ФИО&amp;nbsp;&lt;/div&gt;&lt;div&gt;Вид спорта&lt;/div&gt;&lt;div&gt;Стаж работы&lt;/div&gt;&lt;div&gt;Расписание занятий&lt;br&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br&gt;+ method2(Type, Type): Type&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="190" x="-75" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-28" edge="1" parent="1" source="zY93dvU-7LZMTb6wIJdU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="zY93dvU-7LZMTb6wIJdU-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-26" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Поиск секций&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Вид спорта&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Тренер&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Расписание занятий&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Длительность&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Стоимость&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Найти секцию ()&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="190" x="195" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-33" edge="1" parent="1" source="zY93dvU-7LZMTb6wIJdU-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zY93dvU-7LZMTb6wIJdU-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-30" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Ребенок&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Код ребенка&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;ФИО&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Родитель&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Мед. допуск&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="190" x="460" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-34" edge="1" parent="1" source="zY93dvU-7LZMTb6wIJdU-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zY93dvU-7LZMTb6wIJdU-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-31" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Запись на секцию&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Код записи&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Секция&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Ребенок&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Срок записи&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Статус (активна / отменена)&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Добавить запись ()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Удалить запись ()&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="190" x="460" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-32" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Заказ записи на секцию&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Код записи&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Код секции&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Заказать запись ()&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="190" x="460" y="490" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

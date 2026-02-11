@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
+  <diagram name="Страница-1" id="4GL_U2tfq7ix9SgZoVmx">
+    <mxGraphModel dx="1665" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-23" edge="1" parent="1" source="lBeE7m2eHXU6aWwUJ2Ak-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="lBeE7m2eHXU6aWwUJ2Ak-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-24" edge="1" parent="1" source="lBeE7m2eHXU6aWwUJ2Ak-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="lBeE7m2eHXU6aWwUJ2Ak-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-27" edge="1" parent="1" source="lBeE7m2eHXU6aWwUJ2Ak-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="lBeE7m2eHXU6aWwUJ2Ak-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Клиент" vertex="1">
+          <mxGeometry height="60" width="30" x="90" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-17" edge="1" parent="1" source="lBeE7m2eHXU6aWwUJ2Ak-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="lBeE7m2eHXU6aWwUJ2Ak-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-18" edge="1" parent="1" source="lBeE7m2eHXU6aWwUJ2Ak-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="lBeE7m2eHXU6aWwUJ2Ak-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Туроператор" vertex="1">
+          <mxGeometry height="60" width="30" x="650" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-10" edge="1" parent="1" source="lBeE7m2eHXU6aWwUJ2Ak-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="lBeE7m2eHXU6aWwUJ2Ak-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Турагент" vertex="1">
+          <mxGeometry height="60" width="40" x="360" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Реализация турпродукта" vertex="1">
+          <mxGeometry height="60" width="150" x="140" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Оформление договора" vertex="1">
+          <mxGeometry height="60" width="150" x="480" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-12" edge="1" parent="1" source="lBeE7m2eHXU6aWwUJ2Ak-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="lBeE7m2eHXU6aWwUJ2Ak-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Прогнозирование продаж" vertex="1">
+          <mxGeometry height="60" width="150" x="580" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Добавление тура" vertex="1">
+          <mxGeometry height="60" width="150" x="414" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Формирование тура" vertex="1">
+          <mxGeometry height="60" width="150" x="470" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-19" edge="1" parent="1" source="lBeE7m2eHXU6aWwUJ2Ak-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.573;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="lBeE7m2eHXU6aWwUJ2Ak-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Оставить пожелния на сайте" vertex="1">
+          <mxGeometry height="60" width="150" x="140" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Бронирование тура" vertex="1">
+          <mxGeometry height="60" width="150" x="210" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Просмотр информации&amp;nbsp;&lt;div&gt;о туре&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="190" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-25" edge="1" parent="1" source="lBeE7m2eHXU6aWwUJ2Ak-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="lBeE7m2eHXU6aWwUJ2Ak-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lBeE7m2eHXU6aWwUJ2Ak-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Поиск тура" vertex="1">
+          <mxGeometry height="60" width="150" x="90" y="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

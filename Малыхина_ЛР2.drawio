@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram name="Страница-1" id="kwxx31xEjDpH-CAGusDs">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-9" edge="1" parent="1" source="zY93dvU-7LZMTb6wIJdU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zY93dvU-7LZMTb6wIJdU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Описание тура&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Код тура&lt;br&gt;Описание&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Создать описание ()&lt;br&gt;Удалить описание ()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Изменить описание ()&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="170" x="40" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-11" edge="1" parent="1" source="zY93dvU-7LZMTb6wIJdU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zY93dvU-7LZMTb6wIJdU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-15" edge="1" parent="1" source="zY93dvU-7LZMTb6wIJdU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="zY93dvU-7LZMTb6wIJdU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Тур&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Код тура&lt;br&gt;Длительность&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Места&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Транспорт&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Стоимость&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="110" x="300" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-10" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Каталог&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Добавить тур ()&lt;br&gt;Удалить тур ()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Изменить тур ()&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="110" x="510" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-13" edge="1" parent="1" source="zY93dvU-7LZMTb6wIJdU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="zY93dvU-7LZMTb6wIJdU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Поиск&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Страна&lt;br&gt;Места&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Транспорт&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Стоимость&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Длительный&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Найти тур ()&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="110" x="300" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-17" edge="1" parent="1" source="zY93dvU-7LZMTb6wIJdU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zY93dvU-7LZMTb6wIJdU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-14" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Бронирование&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Код брони&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Тур&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Клиент&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Срок бронирования&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Добавить бронь ()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Удалить бронь ()&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="150" x="500" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-16" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Заказ тура&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Код тура&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Код брони&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Заказать тур ()&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="110" x="720" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-19" edge="1" parent="1" source="zY93dvU-7LZMTb6wIJdU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="zY93dvU-7LZMTb6wIJdU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zY93dvU-7LZMTb6wIJdU-18" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Клиент&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;ФИО&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Виза&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Загр. паспорт&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Код клиента&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="120" x="700" y="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
